@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Crystal)(type KiCad)(uri "C:/Users/George Deker/Desktop/karim Arduino/Libraries/Crystal.pretty")(options "")(descr ""))
+  (lib (name Button_Switch_SMD)(type KiCad)(uri "C:/Users/George Deker/Desktop/karim Arduino/Libraries/Button_Switch_SMD.pretty")(options "")(descr ""))
+)
