@@ -1,5 +1,0 @@
-(sym_lib_table
-  (lib (name Crystal_16MHz_SMD3225)(type Legacy)(uri "C:/Users/George Deker/Desktop/karim Arduino/Libraries/ABM8-16.000MHZ-B2-T/ABM8-16.000MHZ-B2-T.lib")(options "")(descr ""))
-  (lib (name Switch)(type Legacy)(uri "C:/Users/George Deker/Desktop/karim Arduino/Libraries/Switch/Switch.lib")(options "")(descr ""))
-  (lib (name Karim_Arduino-rescue)(type Legacy)(uri ${KIPRJMOD}/Karim_Arduino-rescue.lib)(options "")(descr ""))
-)
